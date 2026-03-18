@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gyeongsan-tire-rental.vercel.app/sitemap.xml
